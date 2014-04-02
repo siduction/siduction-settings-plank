@@ -1,0 +1,16 @@
+Source: siduction-settings-plank
+Section: x11
+Priority: optional
+Maintainer: Alf Gaida <agaida@siduction.org>
+Build-Depends:
+ debhelper (>= 9),
+Standards-Version: 3.9.5
+Homepage: http://chili.siduction.org/wiki/siduction-themes-plank/
+
+Package: siduction-settings-plank
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends},
+ plank
+Description: settings, themes and autostart for plank
+ Contains settings, themes and autostart for plank, depending
+ on the choosen siduction flavour. 
