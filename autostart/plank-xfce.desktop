@@ -49,5 +49,4 @@ Exec=plank-razor
 Icon=plank
 Terminal=false
 NoDisplay=false
-OnlyShowIn=Razor
-
+OnlyShowIn=XFCE

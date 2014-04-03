@@ -1,0 +1,9 @@
+#!/bin/sh
+# kde plank starter
+
+if [ ! -d $HOME/.config/plank/kde ]; then
+    mkdir -p $HOME/.config/plank/kde
+    cp -rf /usr/share/siduction-settings-plank/profiles/kde $HOME/.config/plank/
+fi
+
+plank --name kde

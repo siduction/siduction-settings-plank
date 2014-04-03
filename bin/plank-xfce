@@ -1,0 +1,9 @@
+#!/bin/sh
+# xfce plank starter
+
+if [ ! -d $HOME/.config/plank/xfce ]; then
+    mkdir -p $HOME/.config/plank/xfce
+    cp -rf /usr/share/siduction-settings-plank/profiles/xfce $HOME/.config/plank/
+fi
+
+plank --name xfce

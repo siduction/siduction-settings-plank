@@ -1,0 +1,9 @@
+#!/bin/sh
+# gnome plank starter
+
+if [ ! -d $HOME/.config/plank/gnome ]; then
+    mkdir -p $HOME/.config/plank/gnome
+    cp -rf /usr/share/siduction-settings-plank/profiles/gnome $HOME/.config/plank/
+fi
+
+plank --name gnome
