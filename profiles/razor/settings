@@ -15,7 +15,7 @@ Monitor=-1
 #List of *.dockitem files on this dock. DO NOT MODIFY
 DockItems=plank.dockitem;;chromium.dockitem;;ktelnetservice.dockitem;;geany.dockitem;;xine.dockitem
 #The position for the dock on the monitor.  If 0, left.  If 1, right.  If 2, top.  If 3, bottom.
-Position=1
+Position=2
 #The dock's position offset from center (in percent).
 Offset=0
 #The name of the dock's theme to use.

@@ -1,8 +1,15 @@
-siduction-settings-plank (0.3) UNRELEASED; urgency=medium
+siduction-settings-plank (0.4) unstable; urgency=medium
+
+  * remove useless configurations
+  * rqt/lxqt configuration: top 32px 
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 03 Apr 2014 20:30:00 +0200
+
+siduction-settings-plank (0.3) unstable; urgency=medium
 
   * add starter and profiles for gnome, kde, lxde, xfce 
 
- -- Alf Gaida <agaida@siduction.org>  Thu, 03 Apr 2014 18:46:56 +0200
+ -- Alf Gaida <agaida@siduction.org>  Thu, 03 Apr 2014 18:48:55 +0200
 
 siduction-settings-plank (0.2) unstable; urgency=medium
 
