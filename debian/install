@@ -1,1 +1,4 @@
-autostart/* /etc/xdg/autostart
+autostart etc/xdg/
+bin       usr
+profiles  usr/share/siduction-settings-plank
+themes    usr/share/siduction-settings-plank

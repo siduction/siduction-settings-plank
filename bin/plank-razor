@@ -1,0 +1,9 @@
+#!/bin/sh
+# razor plank starter
+
+if [ ! -d $HOME/.config/plank/razor ]; then
+    mkdir -p $HOME/.config/plank/razor
+    cp -rf /usr/share/siduction-settings-plank/profiles/razor $HOME/.config/plank/
+fi
+
+plank --name razor

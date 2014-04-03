@@ -1,0 +1,6 @@
+# dont track debian build crap
+debian/files
+debian/siduction-settings-plank.debhelper.log
+debian/siduction-settings-plank.substvars
+debian/siduction-settings-plank/
+

@@ -1,3 +1,10 @@
+siduction-settings-plank (0.2) UNRELEASED; urgency=medium
+
+  * add starter for plank-razor
+  * add razor profile 
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 03 Apr 2014 02:25:28 +0200
+
 siduction-settings-plank (0.1) unstable; urgency=low
 
   * Initial release

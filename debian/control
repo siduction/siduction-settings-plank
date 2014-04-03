@@ -13,4 +13,4 @@ Depends: ${misc:Depends}, ${shlibs:Depends},
  plank
 Description: settings, themes and autostart for plank
  Contains settings, themes and autostart for plank, depending
- on the choosen siduction flavour. 
+ on the chosen siduction flavour. 
