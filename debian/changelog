@@ -1,3 +1,9 @@
+siduction-settings-plank (0.5) unstable; urgency=medium
+
+  * new razor/lxqt settings 
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 05 Apr 2014 12:23:18 +0200
+
 siduction-settings-plank (0.4) unstable; urgency=medium
 
   * remove useless configurations
