@@ -6,4 +6,5 @@ if [ ! -d $HOME/.config/plank/razor ]; then
     cp -rf /usr/share/siduction-settings-plank/profiles/razor $HOME/.config/plank/
 fi
 
+sleep 3
 plank --name razor

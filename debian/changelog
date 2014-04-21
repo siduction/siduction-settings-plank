@@ -1,3 +1,10 @@
+siduction-settings-plank (0.6) unstable; urgency=medium
+
+  * Siduction theme 
+  * sleep 3 secs before autostart plank
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 21 Apr 2014 16:45:56 +0200
+
 siduction-settings-plank (0.5) unstable; urgency=medium
 
   * new razor/lxqt settings 

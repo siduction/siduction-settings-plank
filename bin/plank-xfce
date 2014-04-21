@@ -6,4 +6,5 @@ if [ ! -d $HOME/.config/plank/xfce ]; then
     cp -rf /usr/share/siduction-settings-plank/profiles/xfce $HOME/.config/plank/
 fi
 
+sleep 3
 plank --name xfce

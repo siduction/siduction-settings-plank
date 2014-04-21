@@ -6,4 +6,5 @@ if [ ! -d $HOME/.config/plank/kde ]; then
     cp -rf /usr/share/siduction-settings-plank/profiles/kde $HOME/.config/plank/
 fi
 
+sleep 3
 plank --name kde
