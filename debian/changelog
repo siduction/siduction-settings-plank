@@ -1,3 +1,15 @@
+siduction-settings-plank (0.8) unstable; urgency=medium
+
+  * added valid xfce-profile 
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 22 Apr 2014 20:09:08 +0200
+
+siduction-settings-plank (0.7) unstable; urgency=medium
+
+  * Medit instead of juffed in dock 
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 22 Apr 2014 01:34:17 +0200
+
 siduction-settings-plank (0.6) unstable; urgency=medium
 
   * Siduction theme 
