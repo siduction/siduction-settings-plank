@@ -1,3 +1,9 @@
+siduction-settings-plank (0.9) unstable; urgency=medium
+
+  * autostart/*.desktop files stripped  
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 24 Apr 2014 02:09:28 +0200
+
 siduction-settings-plank (0.8) unstable; urgency=medium
 
   * added valid xfce-profile 
