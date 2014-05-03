@@ -1,0 +1,10 @@
+#!/bin/sh
+# razor plank starter
+
+if [ ! -d $HOME/.config/plank/lxqt ]; then
+    mkdir -p $HOME/.config/plank/lxqt
+    cp -rf /usr/share/siduction-settings-plank/profiles/lxqt $HOME/.config/plank/
+fi
+
+sleep 3
+plank --name lxqt

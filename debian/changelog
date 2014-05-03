@@ -1,3 +1,9 @@
+siduction-settings-plank (0.10) unstable; urgency=medium
+
+  * lxqt profile and starter created 
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 03 May 2014 22:46:53 +0200
+
 siduction-settings-plank (0.9) unstable; urgency=medium
 
   * autostart/*.desktop files stripped  
