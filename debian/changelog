@@ -1,3 +1,9 @@
+siduction-settings-plank (0.12) unstable; urgency=medium
+
+  * refine pkill - only "plank" should be killed 
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 05 May 2014 02:57:32 +0200
+
 siduction-settings-plank (0.11) unstable; urgency=medium
 
   * make sure that my plank wins - esp. with saved sessions
