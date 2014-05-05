@@ -1,3 +1,9 @@
+siduction-settings-plank (0.11) unstable; urgency=medium
+
+  * make sure that my plank wins - esp. with saved sessions
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 05 May 2014 02:31:15 +0200
+
 siduction-settings-plank (0.10) unstable; urgency=medium
 
   * lxqt profile and starter created 
