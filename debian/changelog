@@ -1,3 +1,11 @@
+siduction-settings-plank (2014.08.06) unstable; urgency=medium
+
+  * added lxde profile
+  * added fluxbox profile
+  * some cosmetics (center instead of panel)
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 05 Aug 2014 20:45:20 +0200
+
 siduction-settings-plank (0.12) unstable; urgency=medium
 
   * refine pkill - only "plank" should be killed 

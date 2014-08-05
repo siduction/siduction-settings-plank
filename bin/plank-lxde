@@ -5,6 +5,7 @@ if [ ! -d $HOME/.config/plank/lxde ]; then
     mkdir -p $HOME/.config/plank/lxde
     cp -rf /usr/share/siduction-settings-plank/profiles/lxde $HOME/.config/plank/
 fi
+
 sleep 3
 pkill -9 -x plank
 plank --name lxde
