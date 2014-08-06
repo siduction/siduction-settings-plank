@@ -19,7 +19,7 @@ UnhideDelay=0
 Monitor=-1
 
 #List of *.dockitem files on this dock. DO NOT MODIFY
-DockItems=plank.dockitem;;pcmanfm-qt.dockitem;;qterminal.dockitem;;medit.dockitem;;qupzilla.dockitem;;hexchat.dockitem;;clementine.dockitem;;zim.dockitem;;screengrab.dockitem
+DockItems=plank.dockitem;;pcmanfm-qt.dockitem;;qterminal.dockitem;;juffed.dockitem;;qupzilla.dockitem;;siduction-irc.dockitem;;clementine.dockitem;;screengrab.dockitem;;zim.dockitem
 
 #The position for the dock on the monitor.  If 0, left.  If 1, right.  If 2, top.  If 3, bottom.
 Position=2

@@ -1,3 +1,10 @@
+siduction-settings-plank (2014.08.07) unstable; urgency=medium
+
+  * few changes and new items
+  * hexchat replaced by siduction-irc.dockitem
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 06 Aug 2014 23:07:50 +0200
+
 siduction-settings-plank (2014.08.06) unstable; urgency=medium
 
   * added lxde profile
