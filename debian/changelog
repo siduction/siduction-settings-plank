@@ -1,3 +1,10 @@
+siduction-settings-plank (2014.08.07.01) unstable; urgency=medium
+
+  * improve lxde plank settings 
+  * 
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 07 Aug 2014 23:34:11 +0200
+
 siduction-settings-plank (2014.08.07) unstable; urgency=medium
 
   * few changes and new items
