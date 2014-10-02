@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Plank-Cinnamon
+Categories=Utility;
+Type=Application
+Exec=plank-cinnamon
+Icon=plank
+Terminal=false
+NoDisplay=false
+OnlyShowIn=X-Cinnamon

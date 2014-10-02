@@ -1,7 +1,18 @@
+siduction-settings-plank (2014.10.01) unstable; urgency=medium
+
+  * added plank-cinnamon 
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 01 Oct 2014 18:01:45 +0200
+
+siduction-settings-plank (2014.08.07.02) unstable; urgency=medium
+
+  * fix false named xnoise.dockitem in lxde 
+
+ -- Alf Gaida <agaida@siduction.org>  Fri, 08 Aug 2014 00:40:24 +0200
+
 siduction-settings-plank (2014.08.07.01) unstable; urgency=medium
 
   * improve lxde plank settings 
-  * 
 
  -- Alf Gaida <agaida@siduction.org>  Thu, 07 Aug 2014 23:34:11 +0200
 
