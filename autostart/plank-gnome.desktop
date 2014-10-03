@@ -7,3 +7,4 @@ Icon=plank
 Terminal=false
 NoDisplay=false
 OnlyShowIn=GNOME
+AutostartCondition=Gnome3 if-session gnome

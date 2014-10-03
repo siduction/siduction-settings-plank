@@ -6,4 +6,5 @@ Exec=plank-cinnamon
 Icon=plank
 Terminal=false
 NoDisplay=false
-OnlyShowIn=X-Cinnamon
+OnlyShowIn=X-Cinnamon;GNOME;
+AutostartSession=GNOME3 unless-session gnome

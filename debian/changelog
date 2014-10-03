@@ -1,3 +1,9 @@
+siduction-settings-plank (2014.10.02) unstable; urgency=medium
+
+  * conditional autostart for gnome and cinnamon 
+
+ -- Alf Gaida <agaida@siduction.org>  Fri, 03 Oct 2014 02:33:01 +0200
+
 siduction-settings-plank (2014.10.01) unstable; urgency=medium
 
   * added plank-cinnamon 
