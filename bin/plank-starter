@@ -1,0 +1,45 @@
+#!/bin/sh
+# cinnamon plank starter
+
+
+case $XDG_CURRENT_DESKTOP in
+    X-Cinnamon)
+        NAME=cinnamon
+        ;;
+    GNOME)
+        NAME=gnome
+        ;;
+    KDE)
+        NAME=kde
+        ;;
+    LXDE)
+        NAME=lxde
+        ;;
+    LXQt)
+        NAME=lxqt
+        ;;
+    mate)
+        NAME=mate
+        ;;
+    razor)
+        NAME=razor
+        ;;
+   XFCE)
+        NAME=xfce
+        ;;
+   *)
+	sleep 1
+        pkill -9 -x plank
+        plank
+	exit 0
+        ;;
+esac;
+
+if [ ! -d $HOME/.config/plank/${NAME} ]; then
+    mkdir -p $HOME/.config/plank/${NAME}
+    cp -rf /usr/share/siduction-settings-plank/profiles/${NAME} $HOME/.config/plank/
+fi
+
+sleep 1
+pkill -9 -x plank
+plank --name ${NAME}

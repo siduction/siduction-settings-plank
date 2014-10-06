@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Plank-KDE
-Categories=Utility;
-Type=Application
-Exec=plank-kde
-Icon=plank
-Terminal=false
-NoDisplay=false
-OnlyShowIn=KDE

@@ -1,3 +1,12 @@
+siduction-settings-plank (2014.10.05) next; urgency=medium
+
+  * new written plank-starter.desktop
+  * new bin/plank-starter
+  * cinnamon uses medit instead of gedit
+  * bump standards to 3.9.6
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 06 Oct 2014 02:07:29 +0200
+
 siduction-settings-plank (2014.10.02) unstable; urgency=medium
 
   * conditional autostart for gnome and cinnamon 

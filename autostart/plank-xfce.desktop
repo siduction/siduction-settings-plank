@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Plank-XFCE
-Categories=Utility;
-Type=Application
-Exec=plank-xfce
-Icon=plank
-Terminal=false
-NoDisplay=false
-OnlyShowIn=XFCE

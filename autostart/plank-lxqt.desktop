@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Plank-LXQt
-Categories=Utility;
-Type=Application
-Exec=plank-lxqt
-Icon=plank
-Terminal=false
-NoDisplay=false
-OnlyShowIn=LXQt
