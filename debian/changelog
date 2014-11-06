@@ -1,9 +1,15 @@
-siduction-settings-plank (2014.11.07) UNRELEASED; urgency=medium
+siduction-settings-plank (2014.11.07.1) unstable; urgency=medium
+
+  * rename smplayer.docitem to smplayer.dockitem
+
+ -- Alf Gaida <agaida@siduction.org>  Fri, 07 Nov 2014 00:20:01 +0100
+
+siduction-settings-plank (2014.11.07) unstable; urgency=medium
 
   * added screengrab.dockitem to lxde
-  * smplayer to lxqt
+  * smplayer to lxqt 
 
- -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 23:27:57 +0100
+ -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 23:32:29 +0100
 
 siduction-settings-plank (2014.11.06) unstable; urgency=medium
 
