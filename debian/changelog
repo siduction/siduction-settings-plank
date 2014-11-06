@@ -1,3 +1,10 @@
+siduction-settings-plank (2014.11.07) UNRELEASED; urgency=medium
+
+  * added screengrab.dockitem to lxde
+  * smplayer to lxqt
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 23:27:57 +0100
+
 siduction-settings-plank (2014.11.06) unstable; urgency=medium
 
   * merged next to unstable
