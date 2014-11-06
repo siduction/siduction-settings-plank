@@ -1,4 +1,12 @@
-siduction-settings-plank (2014.10.05) next; urgency=medium
+siduction-settings-plank (2014.11.06) unstable; urgency=medium
+
+  * merged next to unstable
+  * lxde: xnoise.dockitem removed, smplayer.dockitem and audacious.dockitem
+    added 
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 22:58:16 +0100
+
+siduction-settings-plank (2014.10.05) unstable; urgency=medium
 
   * new written plank-starter.desktop
   * new bin/plank-starter

@@ -19,7 +19,7 @@ UnhideDelay=0
 Monitor=-1
 
 #List of *.dockitem files on this dock. DO NOT MODIFY
-DockItems=plank.dockitem;;pcmanfm.dockitem;;lxterminal.dockitem;;medit.dockitem;;siduction-irc.dockitem;;midori.dockitem;;claws-mail.dockitem;;osmo.dockitem;;gpodder.dockitem;;brasero.dockitem;;xnoise.dockitem;;zim.dockitem
+DockItems=plank.dockitem;;pcmanfm.dockitem;;lxterminal.dockitem;;medit.dockitem;;siduction-irc.dockitem;;midori.dockitem;;claws-mail.dockitem;;osmo.dockitem;;gpodder.dockitem;;brasero.dockitem;;audacious.dockitem;;smplayer.dockitem;;zim.dockitem
 #The position for the dock on the monitor.  If 0, left.  If 1, right.  If 2, top.  If 3, bottom.
 Position=2
 
