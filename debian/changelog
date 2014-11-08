@@ -1,23 +1,19 @@
-siduction-settings-plank (2014.11.07.1) unstable; urgency=medium
+siduction-settings-plank (2014.11.08) unstable; urgency=medium
 
-  * rename smplayer.docitem to smplayer.dockitem
+  * xfce:
+    - audacious added
+    - xnoise removed
+    - smplayer added
+    - screengrab added
+  * lxde:
+    - rename smplayer.docitem to smplayer.dockitem
+    - added screengrab.dockitem to lxde
+    - xnoise removed
+    - audacious added
+  * lxqt:
+    - smplayer added 
 
- -- Alf Gaida <agaida@siduction.org>  Fri, 07 Nov 2014 00:20:01 +0100
-
-siduction-settings-plank (2014.11.07) unstable; urgency=medium
-
-  * added screengrab.dockitem to lxde
-  * smplayer to lxqt 
-
- -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 23:32:29 +0100
-
-siduction-settings-plank (2014.11.06) unstable; urgency=medium
-
-  * merged next to unstable
-  * lxde: xnoise.dockitem removed, smplayer.dockitem and audacious.dockitem
-    added 
-
- -- Alf Gaida <agaida@siduction.org>  Thu, 06 Nov 2014 22:58:16 +0100
+ -- Alf Gaida <agaida@siduction.org>  Sat, 08 Nov 2014 21:30:38 +0100
 
 siduction-settings-plank (2014.10.05) unstable; urgency=medium
 
