@@ -1,3 +1,9 @@
+siduction-settings-plank (2014.11.21) unstable; urgency=medium
+
+  * last changes in settings, fixup rules
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 22 Nov 2015 22:14:24 +0100
+
 siduction-settings-plank (2014.11.08) unstable; urgency=medium
 
   * xfce:

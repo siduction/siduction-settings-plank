@@ -1,4 +1,10 @@
-# dont track debian build crap
+# don't track editors tmp-files
+*.swp
+*.save
+*.save.*
+
+
+# don't track debian build files
 debian/files
 debian/siduction-settings-plank.debhelper.log
 debian/siduction-settings-plank.substvars
