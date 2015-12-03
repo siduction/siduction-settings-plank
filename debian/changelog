@@ -1,3 +1,9 @@
+siduction-settings-plank (2015.11.03) unstable; urgency=medium
+
+  * lxde - use juffed as lxde editor - we have qt anyways
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 03 Dec 2015 20:42:41 +0100
+
 siduction-settings-plank (2014.11.21) unstable; urgency=medium
 
   * last changes in settings, fixup rules

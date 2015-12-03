@@ -12,7 +12,7 @@ HideDelay=0
 #The plug-name of the monitor for the dock to show on (e.g. DVI-I-1, HDMI1, LVDS1). Leave this empty to keep on the primary monitor.
 Monitor=
 #List of *.dockitem files on this dock. DO NOT MODIFY
-DockItems=pcmanfm.dockitem;;lxterminal.dockitem;;medit.dockitem;;siduction-irc.dockitem;;midori.dockitem;;claws-mail.dockitem;;osmo.dockitem;;gpodder.dockitem;;brasero.dockitem;;audacious.dockitem;;smplayer.dockitem;;screengrab.dockitem;;zim.dockitem
+DockItems=pcmanfm.dockitem;;lxterminal.dockitem;;juffed.dockitem;;siduction-irc.dockitem;;midori.dockitem;;claws-mail.dockitem;;osmo.dockitem;;gpodder.dockitem;;brasero.dockitem;;audacious.dockitem;;smplayer.dockitem;;screengrab.dockitem;;zim.dockitem
 #The position for the dock on the monitor.  If 0, left.  If 1, right.  If 2, top.  If 3, bottom.
 Position=2
 #The dock's position offset from center (in percent).
