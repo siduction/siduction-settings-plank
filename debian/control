@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Homepage: http://chili.siduction.org/wiki/siduction-themes-plank/
+Homepage: http://github.com/siduction/siduction-settings-plank/
 
 Package: siduction-settings-plank
 Architecture: all
